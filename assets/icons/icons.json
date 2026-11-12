@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/meteora-horizon-kalampaka-logo-icon.svg"
+ },
+ "source_md5": "1a509e576767020cba3ff54ed3641eb6",
+ "version": "dd3cc111",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "f620ab5ce1263d45486422f34d88c5ee"
+ ],
+ "made": "2026-11-12"
+}
